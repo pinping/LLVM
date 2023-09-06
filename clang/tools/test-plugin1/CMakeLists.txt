@@ -1,0 +1,1 @@
+add_llvm_library(TestPlugin1 MODULE TestPlugin1.cpp)
